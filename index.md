@@ -14,8 +14,8 @@ humantime: "MON, WED 3:30 PM - 4:50 PM BdST (11:30 AM - 12:50 PM UTC)<br>recap: 
 startdate: 2022-01-31      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-05-25        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Annajiat Alim Rasel", "Md Intekhabul Hafiz"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["M. Abdur Rahman", "Md. Humaion Kabir Mehedi", "Shadab Iqbal"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
-email: ["annajiat@gmail.com", "mihafiz@gmail.com", "anon83@gmail.com", "humaion.kabir.mehedi@g.bracu.ac.bd", "shadab.iqbal@g.bracu.ac.bd"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
+helper: ["M. Abdur Rahman", "Md. Humaion Kabir Mehedi", "Shadab Iqbal", "S Mahbub Uz Zaman"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+email: ["annajiat@gmail.com", "mihafiz@gmail.com", "anon83@gmail.com", "humaion.kabir.mehedi@g.bracu.ac.bd", "shadab.iqbal@g.bracu.ac.bd", "mahbubzaman17@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes: https://pad.carpentries.org/2022-01-31-bracu-pr-online # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
